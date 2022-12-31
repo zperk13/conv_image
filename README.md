@@ -1,0 +1,1 @@
+When watching [Matt Parker's video about convolutional layers](https://youtu.be/OIXsKtywf2E), I wanted a more interactive version rather than his method of typing values in a spreadsheet, so I made one.
